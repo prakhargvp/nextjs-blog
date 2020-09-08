@@ -6,10 +6,10 @@
 npm run dev
 ```
 
-> To Build
+> To Build the files
 
 ```
-npm run dev
+npm run build
 ```
 
 > To Start Production Server
