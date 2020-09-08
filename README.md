@@ -16,7 +16,3 @@ npm run build
 
 ```
 npm run start
-```
-
-
-[WEB URL](https://nextjs-blog.prakhargvp.vercel.app)
